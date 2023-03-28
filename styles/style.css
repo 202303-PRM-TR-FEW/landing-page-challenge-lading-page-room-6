@@ -1,0 +1,41 @@
+.foot {
+    border-top-right-radius: 100px;
+       
+}
+
+.bg2 {
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    background-color: #3a3b59;
+    
+    background-image: url("/images/bg-pattern-circles.svg");
+    background-repeat: no-repeat;
+    background-position:left ;
+    
+    
+}
+
+.th1 {
+    padding-bottom: 2em;
+}
+
+.free {
+    display: flex;
+    flex-direction: row;
+    font-weight:300;
+}
+
+.image1 {
+    display: absolute;
+    margin-right: 10em;
+    left: 150px;
+}
+
+.mmn {
+    position: relative;
+}
+
+
+
+
+
